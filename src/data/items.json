@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Lipstick",
+    "price": 10.99,
+    "imgUrl": "/imgs/lipstick.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Eyeshadow",
+    "price": 20.99,
+    "imgUrl": "/imgs/eyeshadow.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Lipgloss",
+    "price": 6.99,
+    "imgUrl": "/imgs/lipgloss.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Eyelash",
+    "price": 5.99,
+    "imgUrl": "/imgs/eyelash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Serum",
+    "price": 12.99,
+    "imgUrl": "/imgs/serum.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Perfume",
+    "price": 17.99,
+    "imgUrl": "/imgs/perfume.jpg"
+  }
+]
