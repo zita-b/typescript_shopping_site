@@ -5,8 +5,6 @@
   "type": "module",
   "homepage": "http://zita-b.github.io/typescript_shopping_site",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
